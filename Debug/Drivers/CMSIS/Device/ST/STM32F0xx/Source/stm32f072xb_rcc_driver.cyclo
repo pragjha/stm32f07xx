@@ -1,0 +1,3 @@
+../Drivers/CMSIS/Device/ST/STM32F0xx/Source/stm32f072xb_rcc_driver.c:16:10:RCC_GetPCLK1Value	6
+../Drivers/CMSIS/Device/ST/STM32F0xx/Source/stm32f072xb_rcc_driver.c:80:10:RCC_GetPCLK2Value	4
+../Drivers/CMSIS/Device/ST/STM32F0xx/Source/stm32f072xb_rcc_driver.c:118:11:RCC_GetPLLOutputClock	1
